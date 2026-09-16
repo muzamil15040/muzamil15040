@@ -1,0 +1,505 @@
+{
+  "1": {
+    "number": 1,
+    "name": "The Magician",
+    "keywords": [
+      "initiative",
+      "curiosity",
+      "focus",
+      "making"
+    ],
+    "gifts": [
+      "resourceful problem-solving",
+      "hands-on experimentation",
+      "clear focus when interested"
+    ],
+    "shadows": [
+      "impatience when blocked",
+      "scattered starts",
+      "needing to “win” every task"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 1 (The Magician) is associated with initiative, curiosity, focus.",
+    "childPersonality": "For a child, Energy 1 may be associated with initiative and curiosity, expressed in age-appropriate ways.",
+    "parentCue": "Offer short projects with a visible make-or-do outcome."
+  },
+  "2": {
+    "number": 2,
+    "name": "The High Priestess",
+    "keywords": [
+      "intuition",
+      "quiet knowing",
+      "observation",
+      "inner world"
+    ],
+    "gifts": [
+      "thoughtful observation",
+      "rich inner life",
+      "sensitivity to atmosphere"
+    ],
+    "shadows": [
+      "withdrawal when overwhelmed",
+      "secretiveness",
+      "difficulty naming needs"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 2 (The High Priestess) is associated with intuition, quiet knowing, observation.",
+    "childPersonality": "For a child, Energy 2 may be associated with intuition and quiet knowing, expressed in age-appropriate ways.",
+    "parentCue": "Protect quiet time and invite feelings without forcing talk."
+  },
+  "3": {
+    "number": 3,
+    "name": "The Empress",
+    "keywords": [
+      "nurture",
+      "creativity",
+      "abundance",
+      "sensory joy"
+    ],
+    "gifts": [
+      "warm creativity",
+      "care for living things",
+      "aesthetic enjoyment"
+    ],
+    "shadows": [
+      "over-attachment to comfort",
+      "mood dips when unappreciated",
+      "messy overflow of ideas"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 3 (The Empress) is associated with nurture, creativity, abundance.",
+    "childPersonality": "For a child, Energy 3 may be associated with nurture and creativity, expressed in age-appropriate ways.",
+    "parentCue": "Surround with sensory-rich, creative materials and gentle praise."
+  },
+  "4": {
+    "number": 4,
+    "name": "The Emperor",
+    "keywords": [
+      "structure",
+      "steadiness",
+      "boundaries",
+      "leadership"
+    ],
+    "gifts": [
+      "reliability",
+      "organizing play or tasks",
+      "protective loyalty"
+    ],
+    "shadows": [
+      "rigidity",
+      "controlling play",
+      "frustration with chaos"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 4 (The Emperor) is associated with structure, steadiness, boundaries.",
+    "childPersonality": "For a child, Energy 4 may be associated with structure and steadiness, expressed in age-appropriate ways.",
+    "parentCue": "Keep predictable routines and clear, kind boundaries."
+  },
+  "5": {
+    "number": 5,
+    "name": "The Hierophant",
+    "keywords": [
+      "learning",
+      "tradition",
+      "guidance",
+      "values"
+    ],
+    "gifts": [
+      "respect for teachers",
+      "love of stories and rules that make sense",
+      "mentoring younger peers"
+    ],
+    "shadows": [
+      "dogmatism",
+      "people-pleasing to authority",
+      "resistance to new methods"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 5 (The Hierophant) is associated with learning, tradition, guidance.",
+    "childPersonality": "For a child, Energy 5 may be associated with learning and tradition, expressed in age-appropriate ways.",
+    "parentCue": "Explain the “why” behind rules and celebrate learning rituals."
+  },
+  "6": {
+    "number": 6,
+    "name": "The Lovers",
+    "keywords": [
+      "connection",
+      "choice",
+      "harmony",
+      "heart"
+    ],
+    "gifts": [
+      "empathy",
+      "cooperative play",
+      "heartfelt choices"
+    ],
+    "shadows": [
+      "indecision",
+      "over-merging with peers",
+      "hurt when excluded"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 6 (The Lovers) is associated with connection, choice, harmony.",
+    "childPersonality": "For a child, Energy 6 may be associated with connection and choice, expressed in age-appropriate ways.",
+    "parentCue": "Support friendships and help name choices without rushing."
+  },
+  "7": {
+    "number": 7,
+    "name": "The Chariot",
+    "keywords": [
+      "drive",
+      "direction",
+      "courage",
+      "momentum"
+    ],
+    "gifts": [
+      "goal energy",
+      "brave tries",
+      "recovering after setbacks"
+    ],
+    "shadows": [
+      "tunnel vision",
+      "restlessness",
+      "competitive spike under stress"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 7 (The Chariot) is associated with drive, direction, courage.",
+    "childPersonality": "For a child, Energy 7 may be associated with drive and direction, expressed in age-appropriate ways.",
+    "parentCue": "Channel drive into achievable challenges and movement breaks."
+  },
+  "8": {
+    "number": 8,
+    "name": "Strength",
+    "keywords": [
+      "gentle power",
+      "patience",
+      "confidence",
+      "heart-led strength"
+    ],
+    "gifts": [
+      "steady kindness",
+      "courage without force",
+      "calming presence"
+    ],
+    "shadows": [
+      "suppressing feelings to stay “strong”",
+      "avoiding asks for help"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 8 (Strength) is associated with gentle power, patience, confidence.",
+    "childPersonality": "For a child, Energy 8 may be associated with gentle power and patience, expressed in age-appropriate ways.",
+    "parentCue": "Model calm strength and invite help-seeking as brave."
+  },
+  "9": {
+    "number": 9,
+    "name": "The Hermit",
+    "keywords": [
+      "reflection",
+      "independence",
+      "depth",
+      "quiet focus"
+    ],
+    "gifts": [
+      "independent projects",
+      "deep questions",
+      "comfortable solitude"
+    ],
+    "shadows": [
+      "isolation",
+      "overthinking",
+      "reluctance to share progress"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 9 (The Hermit) is associated with reflection, independence, depth.",
+    "childPersonality": "For a child, Energy 9 may be associated with reflection and independence, expressed in age-appropriate ways.",
+    "parentCue": "Allow solo focus time and check in without crowding."
+  },
+  "10": {
+    "number": 10,
+    "name": "Wheel of Fortune",
+    "keywords": [
+      "cycles",
+      "change",
+      "opportunity",
+      "adaptability"
+    ],
+    "gifts": [
+      "flexibility",
+      "spotting new chances",
+      "bouncing between interests productively"
+    ],
+    "shadows": [
+      "inconsistency",
+      "restless quitting",
+      "drama around change"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 10 (Wheel of Fortune) is associated with cycles, change, opportunity.",
+    "childPersonality": "For a child, Energy 10 may be associated with cycles and change, expressed in age-appropriate ways.",
+    "parentCue": "Normalize change and help finish one cycle before the next."
+  },
+  "11": {
+    "number": 11,
+    "name": "Justice",
+    "keywords": [
+      "fairness",
+      "balance",
+      "truth",
+      "responsibility"
+    ],
+    "gifts": [
+      "sense of fairness",
+      "honest feedback",
+      "balanced decision making"
+    ],
+    "shadows": [
+      "harsh self-judgment",
+      "black-and-white thinking",
+      "scorekeeping"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 11 (Justice) is associated with fairness, balance, truth.",
+    "childPersonality": "For a child, Energy 11 may be associated with fairness and balance, expressed in age-appropriate ways.",
+    "parentCue": "Practice fair turn-taking and repair after conflict."
+  },
+  "12": {
+    "number": 12,
+    "name": "The Hanged Man",
+    "keywords": [
+      "pause",
+      "new perspective",
+      "acceptance",
+      "surrender"
+    ],
+    "gifts": [
+      "seeing another angle",
+      "patience in waiting",
+      "creative pause"
+    ],
+    "shadows": [
+      "stalling",
+      "feeling stuck",
+      "waiting for perfect conditions"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 12 (The Hanged Man) is associated with pause, new perspective, acceptance.",
+    "childPersonality": "For a child, Energy 12 may be associated with pause and new perspective, expressed in age-appropriate ways.",
+    "parentCue": "Allow pauses; ask what shifted in their view."
+  },
+  "13": {
+    "number": 13,
+    "name": "Death (Transformation)",
+    "keywords": [
+      "change",
+      "release",
+      "renewal",
+      "transitions"
+    ],
+    "gifts": [
+      "adapting to change",
+      "letting go of outgrown habits",
+      "helping others through transitions"
+    ],
+    "shadows": [
+      "fear of change",
+      "clinging",
+      "abrupt endings without support"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 13 (Death (Transformation)) is associated with change, release, renewal.",
+    "childPersonality": "For a child, Energy 13 may be associated with change and release, expressed in age-appropriate ways.",
+    "parentCue": "Prepare for transitions with stories and small goodbyes."
+  },
+  "14": {
+    "number": 14,
+    "name": "Temperance",
+    "keywords": [
+      "balance",
+      "moderation",
+      "blending",
+      "patience"
+    ],
+    "gifts": [
+      "blending opposites",
+      "peaceful compromise",
+      "paced effort"
+    ],
+    "shadows": [
+      "indecision through over-balancing",
+      "avoiding intensity"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 14 (Temperance) is associated with balance, moderation, blending.",
+    "childPersonality": "For a child, Energy 14 may be associated with balance and moderation, expressed in age-appropriate ways.",
+    "parentCue": "Blend structure with play; avoid extremes of pressure."
+  },
+  "15": {
+    "number": 15,
+    "name": "The Devil",
+    "keywords": [
+      "desire",
+      "attachment",
+      "material focus",
+      "temptation awareness"
+    ],
+    "gifts": [
+      "strong preferences",
+      "commitment to favorites",
+      "awareness of limits"
+    ],
+    "shadows": [
+      "sticky habits",
+      "power struggles over wants",
+      "difficulty with limits"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 15 (The Devil) is associated with desire, attachment, material focus.",
+    "childPersonality": "For a child, Energy 15 may be associated with desire and attachment, expressed in age-appropriate ways.",
+    "parentCue": "Name wants kindly and practice healthy limits together."
+  },
+  "16": {
+    "number": 16,
+    "name": "The Tower",
+    "keywords": [
+      "breakthrough",
+      "disruption",
+      "honesty",
+      "rebuild"
+    ],
+    "gifts": [
+      "truth-telling",
+      "fresh starts",
+      "courage to rebuild"
+    ],
+    "shadows": [
+      "explosive reactions",
+      "all-or-nothing resets",
+      "anxiety around sudden change"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 16 (The Tower) is associated with breakthrough, disruption, honesty.",
+    "childPersonality": "For a child, Energy 16 may be associated with breakthrough and disruption, expressed in age-appropriate ways.",
+    "parentCue": "Stay steady during big feelings; rebuild after storms."
+  },
+  "17": {
+    "number": 17,
+    "name": "The Star",
+    "keywords": [
+      "hope",
+      "inspiration",
+      "healing",
+      "vision"
+    ],
+    "gifts": [
+      "hopeful outlook",
+      "inspirational ideas",
+      "soothing presence"
+    ],
+    "shadows": [
+      "idealism without follow-through",
+      "disappointment when reality differs"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 17 (The Star) is associated with hope, inspiration, healing.",
+    "childPersonality": "For a child, Energy 17 may be associated with hope and inspiration, expressed in age-appropriate ways.",
+    "parentCue": "Keep hope visible through small, doable inspired actions."
+  },
+  "18": {
+    "number": 18,
+    "name": "The Moon",
+    "keywords": [
+      "imagination",
+      "sensitivity",
+      "dreams",
+      "intuition"
+    ],
+    "gifts": [
+      "vivid imagination",
+      "emotional attunement",
+      "symbolic thinking"
+    ],
+    "shadows": [
+      "confusion under stress",
+      "night worries",
+      "taking things personally"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 18 (The Moon) is associated with imagination, sensitivity, dreams.",
+    "childPersonality": "For a child, Energy 18 may be associated with imagination and sensitivity, expressed in age-appropriate ways.",
+    "parentCue": "Honor imagination; soothe nighttime or uncertain moments."
+  },
+  "19": {
+    "number": 19,
+    "name": "The Sun",
+    "keywords": [
+      "warmth",
+      "vitality",
+      "joy",
+      "visibility"
+    ],
+    "gifts": [
+      "contagious joy",
+      "confidence in the spotlight",
+      "energizing others"
+    ],
+    "shadows": [
+      "overstimulation",
+      "needing constant praise",
+      "difficulty with quiet tasks"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 19 (The Sun) is associated with warmth, vitality, joy.",
+    "childPersonality": "For a child, Energy 19 may be associated with warmth and vitality, expressed in age-appropriate ways.",
+    "parentCue": "Celebrate joy; also schedule downtime after bright days."
+  },
+  "20": {
+    "number": 20,
+    "name": "Judgement",
+    "keywords": [
+      "awakening",
+      "accountability",
+      "renewal",
+      "calling"
+    ],
+    "gifts": [
+      "meaningful reflection",
+      "second chances",
+      "hearing an inner call"
+    ],
+    "shadows": [
+      "self-criticism",
+      "pressure to “be better”",
+      "ruminating on mistakes"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 20 (Judgement) is associated with awakening, accountability, renewal.",
+    "childPersonality": "For a child, Energy 20 may be associated with awakening and accountability, expressed in age-appropriate ways.",
+    "parentCue": "Frame mistakes as learning calls, not verdicts."
+  },
+  "21": {
+    "number": 21,
+    "name": "The World",
+    "keywords": [
+      "completion",
+      "integration",
+      "belonging",
+      "wholeness"
+    ],
+    "gifts": [
+      "finishing what they start",
+      "connecting people and ideas",
+      "global curiosity"
+    ],
+    "shadows": [
+      "pressure to complete everything",
+      "restlessness when unfinished",
+      "overextending"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 21 (The World) is associated with completion, integration, belonging.",
+    "childPersonality": "For a child, Energy 21 may be associated with completion and integration, expressed in age-appropriate ways.",
+    "parentCue": "Help close loops and celebrate integration of skills."
+  },
+  "22": {
+    "number": 22,
+    "name": "The Fool",
+    "keywords": [
+      "openness",
+      "beginnings",
+      "trust",
+      "playful exploration"
+    ],
+    "gifts": [
+      "beginner’s mind",
+      "playful risk",
+      "trusting the next step"
+    ],
+    "shadows": [
+      "carelessness",
+      "avoiding commitment",
+      "impulse without pause"
+    ],
+    "essence": "In the Destiny Matrix tradition, Energy 22 (The Fool) is associated with openness, beginnings, trust.",
+    "childPersonality": "For a child, Energy 22 may be associated with openness and beginnings, expressed in age-appropriate ways.",
+    "parentCue": "Encourage curious starts with simple safety rails."
+  }
+}

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Children's Destiny Matrix Chart</title>
+  <meta name="description" content="Symbolic Children's Destiny Matrix chart from birth date — talents, learning, emotions, and parent support guidance. For reflection, not diagnosis." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/app.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="top">
+      <p class="brand">Children's Destiny Matrix</p>
+      <p class="tag">Symbolic birth-date chart for parents · reflection, not diagnosis</p>
+    </header>
+
+    <main>
+      <section id="form-panel" class="panel">
+        <form id="child-form" autocomplete="off">
+          <div class="grid">
+            <label>
+              <span>Child's name</span>
+              <input id="child-name" name="name" type="text" maxlength="80" required placeholder="Emma" />
+            </label>
+            <label>
+              <span>Date of birth</span>
+              <input id="child-dob" name="birthDate" type="date" required />
+            </label>
+            <label class="optional">
+              <span>Parent / guardian name <em>(optional)</em></span>
+              <input id="guardian-name" name="guardianName" type="text" maxlength="80" placeholder="Optional" />
+            </label>
+          </div>
+          <button type="submit" class="cta" id="generate-btn">Generate Child's Matrix</button>
+          <p class="disclaimer">
+            This reading uses a numerology-based symbolic system for reflection and entertainment.
+            It is not scientifically validated and should not be used to diagnose, label, or predict a child's development or future.
+          </p>
+          <p id="form-error" class="error" hidden></p>
+        </form>
+      </section>
+
+      <section id="loading" class="panel loading" hidden>
+        <p class="loading-title">Preparing the symbolic child profile…</p>
+        <ul id="loading-steps">
+          <li data-step="1">Reading the birth-date pattern…</li>
+          <li data-step="2">Calculating the matrix…</li>
+          <li data-step="3">Building the chart…</li>
+          <li data-step="4">Composing the parent reading…</li>
+        </ul>
+      </section>
+
+      <section id="results" hidden>
+        <div class="results-head panel">
+          <div>
+            <h1 id="result-name">Child's Destiny Matrix</h1>
+            <p id="result-meta" class="meta"></p>
+          </div>
+          <div class="core-pill" id="core-pill"></div>
+          <div class="actions">
+            <button type="button" class="ghost" id="share-btn">Share summary</button>
+            <button type="button" class="ghost" id="print-btn">Print / Save</button>
+            <button type="button" class="ghost" id="reset-btn">New chart</button>
+          </div>
+        </div>
+
+        <div class="chart-layout">
+          <div class="panel chart-panel">
+            <div id="purpose-badge" class="purpose-badge" hidden></div>
+            <div id="chart-root" class="chart-root" role="img" aria-label="Children's Destiny Matrix chart"></div>
+          </div>
+          <aside class="panel detail-panel" id="detail-panel">
+            <p class="detail-empty">Select a chart node to explore its energy.</p>
+            <div id="detail-body" hidden></div>
+          </aside>
+        </div>
+
+        <section class="panel overview-panel">
+          <h2>Overview</h2>
+          <p id="overview-text"></p>
+          <p id="reading-error" class="error" hidden></p>
+        </section>
+
+        <section class="panel">
+          <h2>Child profile</h2>
+          <div id="accordion" class="accordion"></div>
+        </section>
+
+        <section class="panel">
+          <h2>How parents can support</h2>
+          <ul id="parent-support" class="support-list"></ul>
+        </section>
+
+        <section class="panel summary-panel">
+          <h2>Your child's symbolic profile</h2>
+          <div id="final-summary" class="summary-grid"></div>
+        </section>
+
+        <p class="footer-note">
+          The child is not defined by this chart. Real personality, development, interests, environment, and relationships always come first.
+        </p>
+      </section>
+    </main>
+  </div>
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>
